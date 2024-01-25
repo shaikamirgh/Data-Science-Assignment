@@ -14,11 +14,11 @@ url = "https://api.lix-it.com/v1/li/linkedin/search/people?url=" + linkedin_url
 
 payload={}
 headers = {
-  'Authorization': "Qz9opBFXKURQh97JBniRdFY8NmkKI4lHypNhUNreKuvCtWcnnWVJBeS89ZSG"
+  'Authorization': "API_KEY"
 }
 
 response = requests.request("GET", url, headers=headers, data=payload)
 
 print(response.json())
-
+#Qz9opBFXKURQh97JBniRdFY8NmkKI4lHypNhUNreKuvCtWcnnWVJBeS89ZSG
 #Qz9opBFXKURQh97JBniRdFY8NmkKI4lHypNhUNreKuvCtWcnnWVJBeS89ZSG
