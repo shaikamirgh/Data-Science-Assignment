@@ -5,7 +5,9 @@ In-Progress
 17-Jan: Reading throught the API usage Docs and basic python code to check the API usage 
 
 Assignment Successfully done.
-![Demo](https://github.com/shaikamirgh/Data-Science-Assignment/blob/main/Working_Demo.png)
+![Script 1 Demo](https://github.com/shaikamirgh/Data-Science-Assignment/blob/main/Working_Demo.png)
+
+Script 2 demo JSON in this Repository.
 
 Both the scripts are in Script main.py files.
 
