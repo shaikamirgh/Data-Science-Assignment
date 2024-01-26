@@ -15,7 +15,7 @@ def get_linkedin_data(first_name, last_name, access_token):
 
 
 def main():
-    access_token = "YOUR_ACCESS_TOKEN"
+    access_token = "ACCESS_TOKEN"
     first_name = input("Enter first name: ")
     last_name = input("Enter last name: ")
     data = get_linkedin_data(first_name, last_name, access_token)

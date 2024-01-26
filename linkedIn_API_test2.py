@@ -20,5 +20,3 @@ headers = {
 response = requests.request("GET", url, headers=headers, data=payload)
 
 print(response.json())
-#Qz9opBFXKURQh97JBniRdFY8NmkKI4lHypNhUNreKuvCtWcnnWVJBeS89ZSG
-#Qz9opBFXKURQh97JBniRdFY8NmkKI4lHypNhUNreKuvCtWcnnWVJBeS89ZSG

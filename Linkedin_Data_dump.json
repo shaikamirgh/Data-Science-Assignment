@@ -1,6 +1,6 @@
 {
     "meta": {
-        "sequenceId": "6875fd17-2186-4803-928c-53d79e783094"
+        "sequenceId": "fc804d08-0354-478b-873c-93ae28976c3c"
     },
     "response": {
         "elements": [
@@ -14,7 +14,7 @@
                     }
                 ],
                 "position": 1,
-                "trackingId": "\u0012\u00a2\u00e3I\u001d\u00a4M5\u009a&=\u00e7\u00f0m\u00f4\u0018"
+                "trackingId": "\f%Y\u000bg\u009eG\u008a\u00b0+J\u00bf\u00c1\u0081\u00b1\u00fd"
             },
             {
                 "$recipeType": "com.linkedin.voyager.dash.deco.search.SearchClusterViewModel",
@@ -27,19 +27,19 @@
                                 "addEntityToSearchHistory": true,
                                 "badgeText": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "1st degree connection",
-                                    "text": "\u2022 1st",
+                                    "accessibilityText": "2nd degree connection",
+                                    "text": "\u2022 2nd",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "entityCustomTrackingInfo": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.search.EntityCustomTrackingInfo",
-                                    "memberDistance": "DISTANCE_1",
+                                    "memberDistance": "DISTANCE_2",
                                     "nameMatch": true
                                 },
-                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAAAYHnEB6XCFA2grjUVNo3X_rdKQ4OyqSnA,SEARCH_SRP,DEFAULT)",
+                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAAzqFIQB_Hdc-JnYUYptA63HXd5GiuR070A,SEARCH_SRP,DEFAULT)",
                                 "image": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
-                                    "accessibilityText": "Amir Hasan",
+                                    "accessibilityText": "Amir El Sayed Fathi",
                                     "attributes": [
                                         {
                                             "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
@@ -48,16 +48,16 @@
                                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
                                                     "profile": {
                                                         "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
-                                                        "entityUrn": "urn:li:fsd_profile:ACoAAAAYHnEB6XCFA2grjUVNo3X_rdKQ4OyqSnA"
+                                                        "entityUrn": "urn:li:fsd_profile:ACoAAAzqFIQB_Hdc-JnYUYptA63HXd5GiuR070A"
                                                     },
-                                                    "profileUrn": "urn:li:fsd_profile:ACoAAAAYHnEB6XCFA2grjUVNo3X_rdKQ4OyqSnA",
+                                                    "profileUrn": "urn:li:fsd_profile:ACoAAAzqFIQB_Hdc-JnYUYptA63HXd5GiuR070A",
                                                     "vectorImage": {
                                                         "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
                                                         "artifacts": [
                                                             {
                                                                 "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
-                                                                "expiresAt": "1711584000000",
-                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/D4E03AQGvncHt6zJCDg/profile-displayphoto-shrink_100_100/0/1680763209600?e=1711584000&v=beta&t=XAMHcKudaXOJ4KI3neD9gyY2_1cWyOE2euuvCFlunTs",
+                                                                "expiresAt": "1706875200000",
+                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/D4D35AQFFxVe8KQPDlw/profile-framedphoto-shrink_100_100/0/1706028007625?e=1706875200&v=beta&t=H3Ah7YiaqaAriYQToAjvi_zJP-OfbiW-MLs8Acozxbg",
                                                                 "height": 100,
                                                                 "width": 100
                                                             }
@@ -70,47 +70,37 @@
                                 },
                                 "lazyLoadedActions": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
-                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAAYHnEB6XCFA2grjUVNo3X_rdKQ4OyqSnA,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
+                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAzqFIQB_Hdc-JnYUYptA63HXd5GiuR070A,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
                                 },
-                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAAYHnEB6XCFA2grjUVNo3X_rdKQ4OyqSnA,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
+                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAzqFIQB_Hdc-JnYUYptA63HXd5GiuR070A,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
                                 "navigationContext": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
-                                    "url": "https://www.linkedin.com/in/amirhasan77?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAYHnEB6XCFA2grjUVNo3X_rdKQ4OyqSnA"
+                                    "url": "https://www.linkedin.com/in/amirelsayedfathi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAzqFIQB_Hdc-JnYUYptA63HXd5GiuR070A"
                                 },
-                                "navigationUrl": "https://www.linkedin.com/in/amirhasan77?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAYHnEB6XCFA2grjUVNo3X_rdKQ4OyqSnA",
+                                "navigationUrl": "https://www.linkedin.com/in/amirelsayedfathi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAzqFIQB_Hdc-JnYUYptA63HXd5GiuR070A",
                                 "primarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Chief Operating Officer (COO) at Ultromics",
+                                    "text": "CTO Digital Marketing",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "secondarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "United Kingdom",
+                                    "text": "Bologna",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "summary": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "attributesV2": [
-                                        {
-                                            "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextAttributeV2",
-                                            "detailDataUnion": {
-                                                "style": "BOLD"
-                                            },
-                                            "length": 4,
-                                            "start": 9
-                                        }
-                                    ],
-                                    "text": "Summary: Amir has 20 years...",
+                                    "text": "Talks about #notizie, #startup, #prodotti, #marketing, and #madeinitaly",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "title": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "View Amir Hasan\u2019s profile",
-                                    "text": "Amir Hasan",
+                                    "accessibilityText": "View Amir El Sayed Fathi\u2019s profile",
+                                    "text": "Amir El Sayed Fathi",
                                     "textDirection": "FIRST_STRONG"
                                 },
-                                "trackingId": "nijglnXGTZmEyVS3eAt1cg==",
-                                "trackingUrn": "urn:li:member:1580657"
+                                "trackingId": "yEtEHg+ESRevYCgCXqDsiQ==",
+                                "trackingUrn": "urn:li:member:216667268"
                             }
                         },
                         "position": 1
@@ -123,19 +113,19 @@
                                 "addEntityToSearchHistory": true,
                                 "badgeText": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "1st degree connection",
-                                    "text": "\u2022 1st",
+                                    "accessibilityText": "2nd degree connection",
+                                    "text": "\u2022 2nd",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "entityCustomTrackingInfo": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.search.EntityCustomTrackingInfo",
-                                    "memberDistance": "DISTANCE_1",
+                                    "memberDistance": "DISTANCE_2",
                                     "nameMatch": true
                                 },
-                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAA3sHycB8-98ToHiEebAEKQi-HaTKZRjk5c,SEARCH_SRP,DEFAULT)",
+                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAABQwbj4BYFFh48abNT4wL8tpzln2-crOx6Y,SEARCH_SRP,DEFAULT)",
                                 "image": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
-                                    "accessibilityText": "Amir Hameed",
+                                    "accessibilityText": "Dr.Amir Shama",
                                     "attributes": [
                                         {
                                             "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
@@ -144,16 +134,16 @@
                                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
                                                     "profile": {
                                                         "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
-                                                        "entityUrn": "urn:li:fsd_profile:ACoAAA3sHycB8-98ToHiEebAEKQi-HaTKZRjk5c"
+                                                        "entityUrn": "urn:li:fsd_profile:ACoAABQwbj4BYFFh48abNT4wL8tpzln2-crOx6Y"
                                                     },
-                                                    "profileUrn": "urn:li:fsd_profile:ACoAAA3sHycB8-98ToHiEebAEKQi-HaTKZRjk5c",
+                                                    "profileUrn": "urn:li:fsd_profile:ACoAABQwbj4BYFFh48abNT4wL8tpzln2-crOx6Y",
                                                     "vectorImage": {
                                                         "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
                                                         "artifacts": [
                                                             {
                                                                 "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
                                                                 "expiresAt": "1711584000000",
-                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C5603AQHvtu8vFWSf9g/profile-displayphoto-shrink_100_100/0/1558433548596?e=1711584000&v=beta&t=TJlUy195J8p9EcoMZOfmpOQw8zVr_4LcmMcHmDTveIM",
+                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/D4D03AQH8LODhLoHe6w/profile-displayphoto-shrink_100_100/0/1705757707884?e=1711584000&v=beta&t=T6Spf_-6NsW-P4Po9I4wlofJCxnORxeCihPKvdABJi4",
                                                                 "height": 100,
                                                                 "width": 100
                                                             }
@@ -166,39 +156,115 @@
                                 },
                                 "lazyLoadedActions": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
-                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAA3sHycB8-98ToHiEebAEKQi-HaTKZRjk5c,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
+                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAABQwbj4BYFFh48abNT4wL8tpzln2-crOx6Y,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
                                 },
-                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAA3sHycB8-98ToHiEebAEKQi-HaTKZRjk5c,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
+                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAABQwbj4BYFFh48abNT4wL8tpzln2-crOx6Y,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
                                 "navigationContext": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
-                                    "url": "https://www.linkedin.com/in/amir-hameed-74728466?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA3sHycB8-98ToHiEebAEKQi-HaTKZRjk5c"
+                                    "url": "https://www.linkedin.com/in/dr-amir-shama-62652995?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABQwbj4BYFFh48abNT4wL8tpzln2-crOx6Y"
                                 },
-                                "navigationUrl": "https://www.linkedin.com/in/amir-hameed-74728466?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA3sHycB8-98ToHiEebAEKQi-HaTKZRjk5c",
+                                "navigationUrl": "https://www.linkedin.com/in/dr-amir-shama-62652995?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABQwbj4BYFFh48abNT4wL8tpzln2-crOx6Y",
                                 "primarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Sales Operations Manager at Boston Scientific",
+                                    "text": "Presidente",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "secondarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Camberley",
+                                    "text": "Milan",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "title": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "View Amir Hameed\u2019s profile",
-                                    "text": "Amir Hameed",
+                                    "accessibilityText": "View Dr.Amir Shama\u2019s profile",
+                                    "text": "Dr.Amir Shama",
                                     "textDirection": "FIRST_STRONG"
                                 },
-                                "trackingId": "N6DLJ+5ySbyhBel5K/8ZGw==",
-                                "trackingUrn": "urn:li:member:233578279"
+                                "trackingId": "4NRp7a/jSxCampa3GAoiJw==",
+                                "trackingUrn": "urn:li:member:338718270"
                             }
                         },
                         "position": 2
                     },
                     {
                         "$recipeType": "com.linkedin.voyager.dash.deco.search.SearchItem",
-                        "itemUnion": {},
+                        "itemUnion": {
+                            "entityResult": {
+                                "$recipeType": "com.linkedin.voyager.dash.deco.search.EntityResultViewModel",
+                                "addEntityToSearchHistory": true,
+                                "badgeText": {
+                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
+                                    "accessibilityText": "2nd degree connection",
+                                    "text": "\u2022 2nd",
+                                    "textDirection": "USER_LOCALE"
+                                },
+                                "entityCustomTrackingInfo": {
+                                    "$recipeType": "com.linkedin.voyager.dash.deco.search.EntityCustomTrackingInfo",
+                                    "memberDistance": "DISTANCE_2",
+                                    "nameMatch": true
+                                },
+                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAABpsxsBp431uw8U2GV5mRrVJBfDg4P9yTQ,SEARCH_SRP,DEFAULT)",
+                                "image": {
+                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
+                                    "accessibilityText": "Amir Baldissera",
+                                    "attributes": [
+                                        {
+                                            "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
+                                            "detailDataUnion": {
+                                                "nonEntityProfilePicture": {
+                                                    "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
+                                                    "profile": {
+                                                        "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
+                                                        "entityUrn": "urn:li:fsd_profile:ACoAAABpsxsBp431uw8U2GV5mRrVJBfDg4P9yTQ"
+                                                    },
+                                                    "profileUrn": "urn:li:fsd_profile:ACoAAABpsxsBp431uw8U2GV5mRrVJBfDg4P9yTQ",
+                                                    "vectorImage": {
+                                                        "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
+                                                        "artifacts": [
+                                                            {
+                                                                "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
+                                                                "expiresAt": "1711584000000",
+                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C5603AQFVguhvU0s7Xg/profile-displayphoto-shrink_100_100/0/1516262369631?e=1711584000&v=beta&t=zrqux9ZkHyamOR9qoIg2huVGLNjP0XSQy8uMVzi3Ds8",
+                                                                "height": 100,
+                                                                "width": 100
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "lazyLoadedActions": {
+                                    "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
+                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAABpsxsBp431uw8U2GV5mRrVJBfDg4P9yTQ,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
+                                },
+                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAABpsxsBp431uw8U2GV5mRrVJBfDg4P9yTQ,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
+                                "navigationContext": {
+                                    "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
+                                    "url": "https://www.linkedin.com/in/amirbaldissera?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABpsxsBp431uw8U2GV5mRrVJBfDg4P9yTQ"
+                                },
+                                "navigationUrl": "https://www.linkedin.com/in/amirbaldissera?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABpsxsBp431uw8U2GV5mRrVJBfDg4P9yTQ",
+                                "primarySubtitle": {
+                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
+                                    "text": "CEO and founder of Experenti, AR/VR and Mixed Reality",
+                                    "textDirection": "USER_LOCALE"
+                                },
+                                "secondarySubtitle": {
+                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
+                                    "text": "Greater Padova (Padua) Metropolitan Area",
+                                    "textDirection": "USER_LOCALE"
+                                },
+                                "title": {
+                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
+                                    "accessibilityText": "View Amir Baldissera\u2019s profile",
+                                    "text": "Amir Baldissera",
+                                    "textDirection": "FIRST_STRONG"
+                                },
+                                "trackingId": "AjX0Ds3ZRFGvZmQ6guwi5w==",
+                                "trackingUrn": "urn:li:member:6927131"
+                            }
+                        },
                         "position": 3
                     },
                     {
@@ -209,19 +275,19 @@
                                 "addEntityToSearchHistory": true,
                                 "badgeText": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "1st degree connection",
-                                    "text": "\u2022 1st",
+                                    "accessibilityText": "2nd degree connection",
+                                    "text": "\u2022 2nd",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "entityCustomTrackingInfo": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.search.EntityCustomTrackingInfo",
-                                    "memberDistance": "DISTANCE_1",
+                                    "memberDistance": "DISTANCE_2",
                                     "nameMatch": true
                                 },
-                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAB122vsBoiW0hkAdizwTa8ShWtGXUq0kQfc,SEARCH_SRP,DEFAULT)",
+                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAAANaIwBK_mxX7hMLe_fwpHzEUQccdutL1I,SEARCH_SRP,DEFAULT)",
                                 "image": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
-                                    "accessibilityText": "Amir Sherman",
+                                    "accessibilityText": "Amir Y.",
                                     "attributes": [
                                         {
                                             "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
@@ -230,16 +296,16 @@
                                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
                                                     "profile": {
                                                         "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
-                                                        "entityUrn": "urn:li:fsd_profile:ACoAAB122vsBoiW0hkAdizwTa8ShWtGXUq0kQfc"
+                                                        "entityUrn": "urn:li:fsd_profile:ACoAAAANaIwBK_mxX7hMLe_fwpHzEUQccdutL1I"
                                                     },
-                                                    "profileUrn": "urn:li:fsd_profile:ACoAAB122vsBoiW0hkAdizwTa8ShWtGXUq0kQfc",
+                                                    "profileUrn": "urn:li:fsd_profile:ACoAAAANaIwBK_mxX7hMLe_fwpHzEUQccdutL1I",
                                                     "vectorImage": {
                                                         "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
                                                         "artifacts": [
                                                             {
                                                                 "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
                                                                 "expiresAt": "1711584000000",
-                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C4E03AQGfsf53XpN9gQ/profile-displayphoto-shrink_100_100/0/1647771107246?e=1711584000&v=beta&t=4jH6Y2si4m4AUUyO9D4PJ8XKVdvWgC86MoWzuhDcis4",
+                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C4D03AQHLMpO-4hMEGw/profile-displayphoto-shrink_100_100/0/1624562263368?e=1711584000&v=beta&t=N1IN9LfAvxwMixQqjxeOYmsmiSOPDdesTfGC0KmF1jU",
                                                                 "height": 100,
                                                                 "width": 100
                                                             }
@@ -252,32 +318,32 @@
                                 },
                                 "lazyLoadedActions": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
-                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAB122vsBoiW0hkAdizwTa8ShWtGXUq0kQfc,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
+                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAANaIwBK_mxX7hMLe_fwpHzEUQccdutL1I,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
                                 },
-                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAB122vsBoiW0hkAdizwTa8ShWtGXUq0kQfc,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
+                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAANaIwBK_mxX7hMLe_fwpHzEUQccdutL1I,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
                                 "navigationContext": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
-                                    "url": "https://www.linkedin.com/in/amir-sherman-937671119?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB122vsBoiW0hkAdizwTa8ShWtGXUq0kQfc"
+                                    "url": "https://www.linkedin.com/in/yampel?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAANaIwBK_mxX7hMLe_fwpHzEUQccdutL1I"
                                 },
-                                "navigationUrl": "https://www.linkedin.com/in/amir-sherman-937671119?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB122vsBoiW0hkAdizwTa8ShWtGXUq0kQfc",
+                                "navigationUrl": "https://www.linkedin.com/in/yampel?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAANaIwBK_mxX7hMLe_fwpHzEUQccdutL1I",
                                 "primarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Head of UK Development at Taglit-Birthright Israel",
+                                    "text": "Empowering Scientific Lab Research Efficacy Through Technical Innovation",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "secondarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "United Kingdom",
+                                    "text": "London Area, United Kingdom",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "title": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "View Amir Sherman\u2019s profile",
-                                    "text": "Amir Sherman",
+                                    "accessibilityText": "View Amir Y.\u2019s profile",
+                                    "text": "Amir Y.",
                                     "textDirection": "FIRST_STRONG"
                                 },
-                                "trackingId": "XZz08ybbRKS5IY+uTZ7qFg==",
-                                "trackingUrn": "urn:li:member:494328571"
+                                "trackingId": "HGb3tCIUSgSfWRAmpGdlEQ==",
+                                "trackingUrn": "urn:li:member:878732"
                             }
                         },
                         "position": 4
@@ -290,19 +356,19 @@
                                 "addEntityToSearchHistory": true,
                                 "badgeText": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "1st degree connection",
-                                    "text": "\u2022 1st",
+                                    "accessibilityText": "2nd degree connection",
+                                    "text": "\u2022 2nd",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "entityCustomTrackingInfo": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.search.EntityCustomTrackingInfo",
-                                    "memberDistance": "DISTANCE_1",
+                                    "memberDistance": "DISTANCE_2",
                                     "nameMatch": true
                                 },
-                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAAAkpegB-1pdxIQLKLO33uY0HVZCqNIVvQU,SEARCH_SRP,DEFAULT)",
+                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAABzI3hcBn0l-cRTToCzyf_NrgosLMVXf_lE,SEARCH_SRP,DEFAULT)",
                                 "image": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
-                                    "accessibilityText": "Amir Peled",
+                                    "accessibilityText": "Amir Avatefipour",
                                     "attributes": [
                                         {
                                             "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
@@ -311,16 +377,16 @@
                                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
                                                     "profile": {
                                                         "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
-                                                        "entityUrn": "urn:li:fsd_profile:ACoAAAAkpegB-1pdxIQLKLO33uY0HVZCqNIVvQU"
+                                                        "entityUrn": "urn:li:fsd_profile:ACoAABzI3hcBn0l-cRTToCzyf_NrgosLMVXf_lE"
                                                     },
-                                                    "profileUrn": "urn:li:fsd_profile:ACoAAAAkpegB-1pdxIQLKLO33uY0HVZCqNIVvQU",
+                                                    "profileUrn": "urn:li:fsd_profile:ACoAABzI3hcBn0l-cRTToCzyf_NrgosLMVXf_lE",
                                                     "vectorImage": {
                                                         "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
                                                         "artifacts": [
                                                             {
                                                                 "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
                                                                 "expiresAt": "1711584000000",
-                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/D5603AQGrjZDW6KcU3A/profile-displayphoto-shrink_100_100/0/1705492202207?e=1711584000&v=beta&t=hVbDgDdoxovapfB1wJLdeVtAPYhAU5fNZ5qwKliIu9c",
+                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/D4D03AQHjtH1sl2xySQ/profile-displayphoto-shrink_100_100/0/1675636537580?e=1711584000&v=beta&t=g5s_DM_U9ZsDePHgSO-UEpZ9vXaTOdmrUVTRWQ0Tfq8",
                                                                 "height": 100,
                                                                 "width": 100
                                                             }
@@ -333,47 +399,32 @@
                                 },
                                 "lazyLoadedActions": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
-                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAAkpegB-1pdxIQLKLO33uY0HVZCqNIVvQU,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
+                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAABzI3hcBn0l-cRTToCzyf_NrgosLMVXf_lE,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
                                 },
-                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAAkpegB-1pdxIQLKLO33uY0HVZCqNIVvQU,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
+                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAABzI3hcBn0l-cRTToCzyf_NrgosLMVXf_lE,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
                                 "navigationContext": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
-                                    "url": "https://www.linkedin.com/in/ampeled?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAkpegB-1pdxIQLKLO33uY0HVZCqNIVvQU"
+                                    "url": "https://www.linkedin.com/in/amir-avatefipour?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABzI3hcBn0l-cRTToCzyf_NrgosLMVXf_lE"
                                 },
-                                "navigationUrl": "https://www.linkedin.com/in/ampeled?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAkpegB-1pdxIQLKLO33uY0HVZCqNIVvQU",
+                                "navigationUrl": "https://www.linkedin.com/in/amir-avatefipour?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABzI3hcBn0l-cRTToCzyf_NrgosLMVXf_lE",
                                 "primarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "FINTECH | SAAS | Subscription Services | Digital Payments | Wallets | Crypto | Blockchain | Super APPs | Embedded Finance | Media Distrubution | DATA | Content Distribution | Partnerships | Operations | Alliances",
+                                    "text": "Project Planning Engineer at Prysmian Group",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "secondarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Greater Zurich Area",
-                                    "textDirection": "USER_LOCALE"
-                                },
-                                "summary": {
-                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "attributesV2": [
-                                        {
-                                            "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextAttributeV2",
-                                            "detailDataUnion": {
-                                                "style": "BOLD"
-                                            },
-                                            "length": 4,
-                                            "start": 42
-                                        }
-                                    ],
-                                    "text": "Publications: Industry Leader Interview - Amir Peled, Head of OTT Services for Swisscom, shares his...",
+                                    "text": "Milan",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "title": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "View Amir Peled\u2019s profile",
-                                    "text": "Amir Peled",
+                                    "accessibilityText": "View Amir Avatefipour\u2019s profile",
+                                    "text": "Amir Avatefipour",
                                     "textDirection": "FIRST_STRONG"
                                 },
-                                "trackingId": "yoCBLjGtSfq6NMqrVcRRmA==",
-                                "trackingUrn": "urn:li:member:2401768"
+                                "trackingId": "uNnLf9MvRFydfWcfCD8/6w==",
+                                "trackingUrn": "urn:li:member:482926103"
                             }
                         },
                         "position": 5
@@ -386,19 +437,19 @@
                                 "addEntityToSearchHistory": true,
                                 "badgeText": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "1st degree connection",
-                                    "text": "\u2022 1st",
+                                    "accessibilityText": "2nd degree connection",
+                                    "text": "\u2022 2nd",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "entityCustomTrackingInfo": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.search.EntityCustomTrackingInfo",
-                                    "memberDistance": "DISTANCE_1",
+                                    "memberDistance": "DISTANCE_2",
                                     "nameMatch": true
                                 },
-                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAAOgydUBIHfKm-WwQOMbwEMCXw5uRpGCsUc,SEARCH_SRP,DEFAULT)",
+                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAAfe5aUBtYCD9cEpjc0p86rGJYtdfLGxW5U,SEARCH_SRP,DEFAULT)",
                                 "image": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
-                                    "accessibilityText": "Amir Abdelazim",
+                                    "accessibilityText": "Amir Irani",
                                     "attributes": [
                                         {
                                             "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
@@ -407,16 +458,16 @@
                                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
                                                     "profile": {
                                                         "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
-                                                        "entityUrn": "urn:li:fsd_profile:ACoAAAOgydUBIHfKm-WwQOMbwEMCXw5uRpGCsUc"
+                                                        "entityUrn": "urn:li:fsd_profile:ACoAAAfe5aUBtYCD9cEpjc0p86rGJYtdfLGxW5U"
                                                     },
-                                                    "profileUrn": "urn:li:fsd_profile:ACoAAAOgydUBIHfKm-WwQOMbwEMCXw5uRpGCsUc",
+                                                    "profileUrn": "urn:li:fsd_profile:ACoAAAfe5aUBtYCD9cEpjc0p86rGJYtdfLGxW5U",
                                                     "vectorImage": {
                                                         "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
                                                         "artifacts": [
                                                             {
                                                                 "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
                                                                 "expiresAt": "1711584000000",
-                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C4D03AQG16b56sjyzpw/profile-displayphoto-shrink_100_100/0/1621967566734?e=1711584000&v=beta&t=OPJhGjQdzlrnsAVMTaq8gu4_mThda7pjyg5KI6qvAxE",
+                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C4D03AQHkPcJhTLUJfA/profile-displayphoto-shrink_100_100/0/1662978581782?e=1711584000&v=beta&t=6YMTQdIhcn_Q9RiDFMa7I1ji3jthEJGuQFX3oKKzL6w",
                                                                 "height": 100,
                                                                 "width": 100
                                                             }
@@ -429,37 +480,32 @@
                                 },
                                 "lazyLoadedActions": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
-                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAOgydUBIHfKm-WwQOMbwEMCXw5uRpGCsUc,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
+                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAfe5aUBtYCD9cEpjc0p86rGJYtdfLGxW5U,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
                                 },
-                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAOgydUBIHfKm-WwQOMbwEMCXw5uRpGCsUc,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
+                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAfe5aUBtYCD9cEpjc0p86rGJYtdfLGxW5U,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
                                 "navigationContext": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
-                                    "url": "https://www.linkedin.com/in/amir-abdelazim-1b147518?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAOgydUBIHfKm-WwQOMbwEMCXw5uRpGCsUc"
+                                    "url": "https://www.linkedin.com/in/amirirani?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAfe5aUBtYCD9cEpjc0p86rGJYtdfLGxW5U"
                                 },
-                                "navigationUrl": "https://www.linkedin.com/in/amir-abdelazim-1b147518?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAOgydUBIHfKm-WwQOMbwEMCXw5uRpGCsUc",
+                                "navigationUrl": "https://www.linkedin.com/in/amirirani?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAfe5aUBtYCD9cEpjc0p86rGJYtdfLGxW5U",
                                 "primarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Senior Executive @ ICT industry | Driving Telecom Transformation",
+                                    "text": "Business Intelligence Engineer || Data Analyst | Biz Analytics | Data Viz | Reporting | Data Modeling | Data Governance | Power BI | SQL",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "secondarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Berlin",
-                                    "textDirection": "USER_LOCALE"
-                                },
-                                "summary": {
-                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Talks about #5g, #coaching, #leadership, #technologystrategy, and #businesstransformation",
+                                    "text": "Milan",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "title": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "View Amir Abdelazim\u2019s profile",
-                                    "text": "Amir Abdelazim",
+                                    "accessibilityText": "View Amir Irani\u2019s profile",
+                                    "text": "Amir Irani",
                                     "textDirection": "FIRST_STRONG"
                                 },
-                                "trackingId": "fJxfXMVDTlC7BoJKlweqBQ==",
-                                "trackingUrn": "urn:li:member:60869077"
+                                "trackingId": "f7qwFUUFTaSczMHDu43r+w==",
+                                "trackingUrn": "urn:li:member:132048293"
                             }
                         },
                         "position": 6
@@ -481,10 +527,10 @@
                                     "memberDistance": "DISTANCE_2",
                                     "nameMatch": true
                                 },
-                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAABAHGT0Bm0T99hSJouQIfVHgu73KpPFlQbI,SEARCH_SRP,DEFAULT)",
+                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAABfjJAcBWylsKNLaaCQiqk_6Di77PK5d2Ok,SEARCH_SRP,DEFAULT)",
                                 "image": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
-                                    "accessibilityText": "Amir Khan",
+                                    "accessibilityText": "Amir Shtarkman",
                                     "attributes": [
                                         {
                                             "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
@@ -493,16 +539,16 @@
                                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
                                                     "profile": {
                                                         "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
-                                                        "entityUrn": "urn:li:fsd_profile:ACoAABAHGT0Bm0T99hSJouQIfVHgu73KpPFlQbI"
+                                                        "entityUrn": "urn:li:fsd_profile:ACoAABfjJAcBWylsKNLaaCQiqk_6Di77PK5d2Ok"
                                                     },
-                                                    "profileUrn": "urn:li:fsd_profile:ACoAABAHGT0Bm0T99hSJouQIfVHgu73KpPFlQbI",
+                                                    "profileUrn": "urn:li:fsd_profile:ACoAABfjJAcBWylsKNLaaCQiqk_6Di77PK5d2Ok",
                                                     "vectorImage": {
                                                         "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
                                                         "artifacts": [
                                                             {
                                                                 "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
                                                                 "expiresAt": "1711584000000",
-                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/D4E03AQHObWWdI7W6lQ/profile-displayphoto-shrink_100_100/0/1704742044142?e=1711584000&v=beta&t=rUXLmiJfOn8j3L5NLrYCgZTYVsXQ6SoeCNSBMlFx804",
+                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C4D03AQHjbLt7apfOcw/profile-displayphoto-shrink_100_100/0/1520782499783?e=1711584000&v=beta&t=JohnFe34nbH1jXVt4br0MSn54Jg1V2vhZ2uDxhtWyRo",
                                                                 "height": 100,
                                                                 "width": 100
                                                             }
@@ -515,32 +561,32 @@
                                 },
                                 "lazyLoadedActions": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
-                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAABAHGT0Bm0T99hSJouQIfVHgu73KpPFlQbI,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
+                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAABfjJAcBWylsKNLaaCQiqk_6Di77PK5d2Ok,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
                                 },
-                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAABAHGT0Bm0T99hSJouQIfVHgu73KpPFlQbI,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
+                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAABfjJAcBWylsKNLaaCQiqk_6Di77PK5d2Ok,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
                                 "navigationContext": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
-                                    "url": "https://www.linkedin.com/in/amirkhanlondon?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABAHGT0Bm0T99hSJouQIfVHgu73KpPFlQbI"
+                                    "url": "https://www.linkedin.com/in/amir-shtarkman-45b26ab2?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABfjJAcBWylsKNLaaCQiqk_6Di77PK5d2Ok"
                                 },
-                                "navigationUrl": "https://www.linkedin.com/in/amirkhanlondon?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABAHGT0Bm0T99hSJouQIfVHgu73KpPFlQbI",
+                                "navigationUrl": "https://www.linkedin.com/in/amir-shtarkman-45b26ab2?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABfjJAcBWylsKNLaaCQiqk_6Di77PK5d2Ok",
                                 "primarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "I lead the UKI sales team in their efforts to help organisations empower their staff to digitally share sensitive information with confidence",
+                                    "text": "Vice President Products And Business Development at DataGroupIT",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "secondarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "United Kingdom",
+                                    "text": "Tel Aviv District, Israel",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "title": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "View Amir Khan\u2019s profile",
-                                    "text": "Amir Khan",
+                                    "accessibilityText": "View Amir Shtarkman\u2019s profile",
+                                    "text": "Amir Shtarkman",
                                     "textDirection": "FIRST_STRONG"
                                 },
-                                "trackingId": "XjFNlRIbTf6Y1p/wk/982w==",
-                                "trackingUrn": "urn:li:member:268900669"
+                                "trackingId": "/CYolWjER/isVihHcGBK+w==",
+                                "trackingUrn": "urn:li:member:400761863"
                             }
                         },
                         "position": 7
@@ -562,10 +608,10 @@
                                     "memberDistance": "DISTANCE_2",
                                     "nameMatch": true
                                 },
-                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAASLXcQBO7i0iQ8CUK-3bL0cAjWjM1ZeFPI,SEARCH_SRP,DEFAULT)",
+                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAARc3oABjSJXVFHydmIcen9woNhDbWTWx3g,SEARCH_SRP,DEFAULT)",
                                 "image": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
-                                    "accessibilityText": "Amir Khan",
+                                    "accessibilityText": "Amir Topalovic, PHD",
                                     "attributes": [
                                         {
                                             "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
@@ -574,21 +620,9 @@
                                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
                                                     "profile": {
                                                         "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
-                                                        "entityUrn": "urn:li:fsd_profile:ACoAAASLXcQBO7i0iQ8CUK-3bL0cAjWjM1ZeFPI"
+                                                        "entityUrn": "urn:li:fsd_profile:ACoAAARc3oABjSJXVFHydmIcen9woNhDbWTWx3g"
                                                     },
-                                                    "profileUrn": "urn:li:fsd_profile:ACoAAASLXcQBO7i0iQ8CUK-3bL0cAjWjM1ZeFPI",
-                                                    "vectorImage": {
-                                                        "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
-                                                        "artifacts": [
-                                                            {
-                                                                "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
-                                                                "expiresAt": "1711584000000",
-                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C4D03AQEnIAqi_fOZRA/profile-displayphoto-shrink_100_100/0/1516945722165?e=1711584000&v=beta&t=z6zW8kJiwi_u8pjDNPptGhb34M6Nv6TO3Y0QkvcCtbo",
-                                                                "height": 100,
-                                                                "width": 100
-                                                            }
-                                                        ]
-                                                    }
+                                                    "profileUrn": "urn:li:fsd_profile:ACoAAARc3oABjSJXVFHydmIcen9woNhDbWTWx3g"
                                                 }
                                             }
                                         }
@@ -596,32 +630,32 @@
                                 },
                                 "lazyLoadedActions": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
-                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAASLXcQBO7i0iQ8CUK-3bL0cAjWjM1ZeFPI,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
+                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAARc3oABjSJXVFHydmIcen9woNhDbWTWx3g,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
                                 },
-                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAASLXcQBO7i0iQ8CUK-3bL0cAjWjM1ZeFPI,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
+                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAARc3oABjSJXVFHydmIcen9woNhDbWTWx3g,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
                                 "navigationContext": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
-                                    "url": "https://www.linkedin.com/in/amir-khan-8b064921?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAASLXcQBO7i0iQ8CUK-3bL0cAjWjM1ZeFPI"
+                                    "url": "https://www.linkedin.com/in/amir-topalovic-phd-36861a20?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAARc3oABjSJXVFHydmIcen9woNhDbWTWx3g"
                                 },
-                                "navigationUrl": "https://www.linkedin.com/in/amir-khan-8b064921?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAASLXcQBO7i0iQ8CUK-3bL0cAjWjM1ZeFPI",
+                                "navigationUrl": "https://www.linkedin.com/in/amir-topalovic-phd-36861a20?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAARc3oABjSJXVFHydmIcen9woNhDbWTWx3g",
                                 "primarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Project Manager - GPIL - 30K connections. (Reached LinkedIn 30 K Limit please follow only)",
+                                    "text": "Helping Clients Build Innovative Data Solutions | Serial Entrepreneur & PhD |",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "secondarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Bracknell Forest",
+                                    "text": "Milan",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "title": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "View Amir Khan\u2019s profile",
-                                    "text": "Amir Khan",
+                                    "accessibilityText": "View Amir Topalovic, PHD\u2019s profile",
+                                    "text": "Amir Topalovic, PHD",
                                     "textDirection": "FIRST_STRONG"
                                 },
-                                "trackingId": "ptkjyz+xRoWqNS5LRlxdsQ==",
-                                "trackingUrn": "urn:li:member:76242372"
+                                "trackingId": "CUjn1y9mT9uYlZHfDjBaag==",
+                                "trackingUrn": "urn:li:member:73195136"
                             }
                         },
                         "position": 8
@@ -643,10 +677,10 @@
                                     "memberDistance": "DISTANCE_2",
                                     "nameMatch": true
                                 },
-                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAAAG6h4BrJBPBQaZh-TxvarzUPWauzXAOd8,SEARCH_SRP,DEFAULT)",
+                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAAAQsd4B-VWHUTC-XvnjLNY2IFKQWtnu6G0,SEARCH_SRP,DEFAULT)",
                                 "image": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
-                                    "accessibilityText": "Amir Anzur",
+                                    "accessibilityText": "Amir Ofek",
                                     "attributes": [
                                         {
                                             "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
@@ -655,16 +689,16 @@
                                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
                                                     "profile": {
                                                         "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
-                                                        "entityUrn": "urn:li:fsd_profile:ACoAAAAG6h4BrJBPBQaZh-TxvarzUPWauzXAOd8"
+                                                        "entityUrn": "urn:li:fsd_profile:ACoAAAAQsd4B-VWHUTC-XvnjLNY2IFKQWtnu6G0"
                                                     },
-                                                    "profileUrn": "urn:li:fsd_profile:ACoAAAAG6h4BrJBPBQaZh-TxvarzUPWauzXAOd8",
+                                                    "profileUrn": "urn:li:fsd_profile:ACoAAAAQsd4B-VWHUTC-XvnjLNY2IFKQWtnu6G0",
                                                     "vectorImage": {
                                                         "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
                                                         "artifacts": [
                                                             {
                                                                 "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
                                                                 "expiresAt": "1711584000000",
-                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/D4E03AQGOfbw_4mtqyA/profile-displayphoto-shrink_100_100/0/1685550672670?e=1711584000&v=beta&t=tRei-PTibKC1wG_4iczY0FxhHgrY0BSdzElp1GGHQHQ",
+                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C4E03AQFqWxwQeXm9ow/profile-displayphoto-shrink_100_100/0/1580893436084?e=1711584000&v=beta&t=rLsjQSOIKYo4k5smEq4S24zOiV99IpiE1t0e44hdkhQ",
                                                                 "height": 100,
                                                                 "width": 100
                                                             }
@@ -677,37 +711,37 @@
                                 },
                                 "lazyLoadedActions": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
-                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAAG6h4BrJBPBQaZh-TxvarzUPWauzXAOd8,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
+                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAAQsd4B-VWHUTC-XvnjLNY2IFKQWtnu6G0,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
                                 },
-                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAAG6h4BrJBPBQaZh-TxvarzUPWauzXAOd8,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
+                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAAQsd4B-VWHUTC-XvnjLNY2IFKQWtnu6G0,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
                                 "navigationContext": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
-                                    "url": "https://www.linkedin.com/in/amiranzur?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAG6h4BrJBPBQaZh-TxvarzUPWauzXAOd8"
+                                    "url": "https://www.linkedin.com/in/amirofek?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAQsd4B-VWHUTC-XvnjLNY2IFKQWtnu6G0"
                                 },
-                                "navigationUrl": "https://www.linkedin.com/in/amiranzur?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAG6h4BrJBPBQaZh-TxvarzUPWauzXAOd8",
+                                "navigationUrl": "https://www.linkedin.com/in/amirofek?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAQsd4B-VWHUTC-XvnjLNY2IFKQWtnu6G0",
                                 "primarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Author - Strategist - Teacher | Your Brand Is Worth More Than Your House | AmirAnzur.com",
+                                    "text": "CEO AxoniusX",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "secondarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "London",
+                                    "text": "Israel",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "summary": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Talks about #digital, #coaching, #startups, #innovation, and #entrepreneurship",
+                                    "text": "Talks about #devsecops, #cloudnative, #cloudsecurity, #cybersecurity, and #assetmanagement",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "title": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "View Amir Anzur\u2019s profile",
-                                    "text": "Amir Anzur",
+                                    "accessibilityText": "View Amir Ofek\u2019s profile",
+                                    "text": "Amir Ofek",
                                     "textDirection": "FIRST_STRONG"
                                 },
-                                "trackingId": "ixtUalJLQ2eL6R2lFNlrbw==",
-                                "trackingUrn": "urn:li:member:453150"
+                                "trackingId": "oDdMklBoQHKL2L/zEgD0sg==",
+                                "trackingUrn": "urn:li:member:1094110"
                             }
                         },
                         "position": 9
@@ -729,10 +763,10 @@
                                     "memberDistance": "DISTANCE_2",
                                     "nameMatch": true
                                 },
-                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAAcBxKYB9cg8y4Xlky0QVB8N2bb1QxeAeWA,SEARCH_SRP,DEFAULT)",
+                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAAlJ-ncBYqg1wRdtkM60Ndj_MGdL-E-K7m4,SEARCH_SRP,DEFAULT)",
                                 "image": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
-                                    "accessibilityText": "Amir Bhatti",
+                                    "accessibilityText": "Amir Abbas",
                                     "attributes": [
                                         {
                                             "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
@@ -741,16 +775,16 @@
                                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
                                                     "profile": {
                                                         "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
-                                                        "entityUrn": "urn:li:fsd_profile:ACoAAAcBxKYB9cg8y4Xlky0QVB8N2bb1QxeAeWA"
+                                                        "entityUrn": "urn:li:fsd_profile:ACoAAAlJ-ncBYqg1wRdtkM60Ndj_MGdL-E-K7m4"
                                                     },
-                                                    "profileUrn": "urn:li:fsd_profile:ACoAAAcBxKYB9cg8y4Xlky0QVB8N2bb1QxeAeWA",
+                                                    "profileUrn": "urn:li:fsd_profile:ACoAAAlJ-ncBYqg1wRdtkM60Ndj_MGdL-E-K7m4",
                                                     "vectorImage": {
                                                         "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
                                                         "artifacts": [
                                                             {
                                                                 "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
                                                                 "expiresAt": "1711584000000",
-                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C5603AQEjumTQF9tOyA/profile-displayphoto-shrink_100_100/0/1516531503799?e=1711584000&v=beta&t=fgpQjRSWAc6S_h4COXqxbK6li9kCDlg4MJcp-kQxqqk",
+                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/D4E03AQFw55NEA9KUGQ/profile-displayphoto-shrink_100_100/0/1698500253005?e=1711584000&v=beta&t=diLVSTh3fZknhg4z4LJrV-Nz-VRlHrxTauz3MdXBP1M",
                                                                 "height": 100,
                                                                 "width": 100
                                                             }
@@ -763,125 +797,54 @@
                                 },
                                 "lazyLoadedActions": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
-                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAcBxKYB9cg8y4Xlky0QVB8N2bb1QxeAeWA,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
+                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAlJ-ncBYqg1wRdtkM60Ndj_MGdL-E-K7m4,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
                                 },
-                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAcBxKYB9cg8y4Xlky0QVB8N2bb1QxeAeWA,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
+                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAAlJ-ncBYqg1wRdtkM60Ndj_MGdL-E-K7m4,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
                                 "navigationContext": {
                                     "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
-                                    "url": "https://www.linkedin.com/in/amirriaz?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAcBxKYB9cg8y4Xlky0QVB8N2bb1QxeAeWA"
+                                    "url": "https://www.linkedin.com/in/amirabbas1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlJ-ncBYqg1wRdtkM60Ndj_MGdL-E-K7m4"
                                 },
-                                "navigationUrl": "https://www.linkedin.com/in/amirriaz?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAcBxKYB9cg8y4Xlky0QVB8N2bb1QxeAeWA",
+                                "navigationUrl": "https://www.linkedin.com/in/amirabbas1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlJ-ncBYqg1wRdtkM60Ndj_MGdL-E-K7m4",
                                 "primarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Group Commercial Director at ScanmarQED",
+                                    "text": "Incident Response Technical Director @ Grant Thornton UK LLP | Cybersecurity | GCFE | GAWN",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "secondarySubtitle": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "City of London",
-                                    "textDirection": "USER_LOCALE"
-                                },
-                                "title": {
-                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "View Amir Bhatti\u2019s profile",
-                                    "text": "Amir Bhatti",
-                                    "textDirection": "FIRST_STRONG"
-                                },
-                                "trackingId": "E2DUX3RGQu2i1lEIy3GQdA==",
-                                "trackingUrn": "urn:li:member:117556390"
-                            }
-                        },
-                        "position": 10
-                    },
-                    {
-                        "$recipeType": "com.linkedin.voyager.dash.deco.search.SearchItem",
-                        "itemUnion": {
-                            "entityResult": {
-                                "$recipeType": "com.linkedin.voyager.dash.deco.search.EntityResultViewModel",
-                                "addEntityToSearchHistory": true,
-                                "badgeText": {
-                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "2nd degree connection",
-                                    "text": "\u2022 2nd",
-                                    "textDirection": "USER_LOCALE"
-                                },
-                                "entityCustomTrackingInfo": {
-                                    "$recipeType": "com.linkedin.voyager.dash.deco.search.EntityCustomTrackingInfo",
-                                    "memberDistance": "DISTANCE_2",
-                                    "nameMatch": true
-                                },
-                                "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_profile:ACoAAABMCjIBpAJ7BkfRccC5mPhb_kQMY2WtFg8,SEARCH_SRP,DEFAULT)",
-                                "image": {
-                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageViewModel",
-                                    "accessibilityText": "Amir Nooriala",
-                                    "attributes": [
-                                        {
-                                            "$recipeType": "com.linkedin.voyager.dash.deco.common.image.ImageAttribute",
-                                            "detailDataUnion": {
-                                                "nonEntityProfilePicture": {
-                                                    "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon50101142",
-                                                    "profile": {
-                                                        "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon587401631",
-                                                        "entityUrn": "urn:li:fsd_profile:ACoAAABMCjIBpAJ7BkfRccC5mPhb_kQMY2WtFg8"
-                                                    },
-                                                    "profileUrn": "urn:li:fsd_profile:ACoAAABMCjIBpAJ7BkfRccC5mPhb_kQMY2WtFg8",
-                                                    "vectorImage": {
-                                                        "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorImageOnlyRootUrlAndAttribution",
-                                                        "artifacts": [
-                                                            {
-                                                                "$recipeType": "com.linkedin.voyager.dash.deco.common.VectorArtifact",
-                                                                "expiresAt": "1711584000000",
-                                                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/C4D03AQFEiOmaTVfWAA/profile-displayphoto-shrink_100_100/0/1635428716909?e=1711584000&v=beta&t=UBLEomogHsAW-Y5_YpOeAY5pZY8cFDa30uCtRJ9zwUw",
-                                                                "height": 100,
-                                                                "width": 100
-                                                            }
-                                                        ]
-                                                    }
-                                                }
-                                            }
-                                        }
-                                    ]
-                                },
-                                "lazyLoadedActions": {
-                                    "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon803192845",
-                                    "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAABMCjIBpAJ7BkfRccC5mPhb_kQMY2WtFg8,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)"
-                                },
-                                "lazyLoadedActionsUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_profileActions:(ACoAAABMCjIBpAJ7BkfRccC5mPhb_kQMY2WtFg8,SEARCH,EMPTY_CONTEXT_ENTITY_URN),PEOPLE,SEARCH_SRP)",
-                                "navigationContext": {
-                                    "$recipeType": "com.linkedin.deco.recipe.anonymous.Anon1443486946",
-                                    "url": "https://www.linkedin.com/in/amirnooriala?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABMCjIBpAJ7BkfRccC5mPhb_kQMY2WtFg8"
-                                },
-                                "navigationUrl": "https://www.linkedin.com/in/amirnooriala?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABMCjIBpAJ7BkfRccC5mPhb_kQMY2WtFg8",
-                                "primarySubtitle": {
-                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Managing Partner @ Aurias",
-                                    "textDirection": "USER_LOCALE"
-                                },
-                                "secondarySubtitle": {
-                                    "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "London",
+                                    "text": "United Kingdom",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "summary": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "text": "Talks about ##fintech, #angelinvesting, #authentication, #shapingfintech, and ##digitalidentity",
+                                    "attributesV2": [
+                                        {
+                                            "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextAttributeV2",
+                                            "detailDataUnion": {
+                                                "style": "BOLD"
+                                            },
+                                            "length": 4,
+                                            "start": 29
+                                        }
+                                    ],
+                                    "text": "Summary: ...Thornton UK LLP, Amir oversees...",
                                     "textDirection": "USER_LOCALE"
                                 },
                                 "title": {
                                     "$recipeType": "com.linkedin.voyager.dash.deco.common.text.TextViewModelV2",
-                                    "accessibilityText": "View Amir Nooriala\u2019s profile",
-                                    "text": "Amir Nooriala",
+                                    "accessibilityText": "View Amir Abbas\u2019 profile",
+                                    "text": "Amir Abbas",
                                     "textDirection": "FIRST_STRONG"
                                 },
-                                "trackingId": "m2ZHmwJtQmaHX2xybHwJhw==",
-                                "trackingUrn": "urn:li:member:4983346"
+                                "trackingId": "SapcGk+tQPar0dElS73EIg==",
+                                "trackingUrn": "urn:li:member:155843191"
                             }
                         },
-                        "position": 11
+                        "position": 10
                     }
                 ],
                 "position": 2,
-                "trackingId": "&r\u00dbZ\u0089\u0091H\u00c3\u0082\n8\u00bd:T\u0013b"
+                "trackingId": "\u00e2\u0091\u00ce1l\u00f0CN\u00be\u00a87\u00b8Q\u00ec\u00a4\u00f7"
             },
             {
                 "$recipeType": "com.linkedin.voyager.dash.deco.search.SearchClusterViewModel",
@@ -889,19 +852,19 @@
                     {
                         "$recipeType": "com.linkedin.voyager.dash.deco.search.SearchItem",
                         "itemUnion": {},
-                        "position": 12
+                        "position": 11
                     }
                 ],
                 "position": 3,
-                "trackingId": "\u00a8\u0088\u0003\u0083lUH\u0002\u0081\u00f3aLwF\u0084\u008c"
+                "trackingId": "\u00f1\u00ad\u00ef\u008a\u00e1\u00e0O\u00f3\u008cW>t\u0004[Q\u00f1"
             }
         ],
         "metadata": {
             "$recipeType": "com.linkedin.voyager.dash.deco.search.SearchClusterCollectionMetadata",
             "primaryResultType": "PEOPLE",
             "queryType": "NAVIGATE",
-            "searchId": "fafae468-0e20-465d-b458-028b39abad6d",
-            "totalResultCount": 467145
+            "searchId": "afa7eabc-597f-466f-817c-b7c22fb5c483",
+            "totalResultCount": 467414
         },
         "paging": {
             "total": 1000,

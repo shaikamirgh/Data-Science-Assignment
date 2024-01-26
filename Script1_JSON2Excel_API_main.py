@@ -2,6 +2,13 @@ import pandas as pd
 import requests
 import urllib.parse
 import json
+import os
+
+from dotenv import load_dotenv
+load_dotenv()
+
+MY_AUTH_TOKEN = os.environ.get('AUTH_TOKEN')
+print(MY_AUTH_TOKEN)
 
 # Your existing code to formulate the LinkedIn URL
 SearchName = "Amir"
@@ -11,7 +18,7 @@ url = "https://api.lix-it.com/v1/li/linkedin/search/people?url=" + linkedin_url
 
 # Headers with authorization token
 headers = {
-  'Authorization': "Qz9opBFXKURQh97JBniRdFY8NmkKI4lHypNhUNreKuvCtWcnnWVJBeS89ZSG"
+  'Authorization': MY_AUTH_TOKEN
 }
 #
 # Making the GET request
